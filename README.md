@@ -1,3 +1,3 @@
 # goRingBuffer
 
-This is a basic overwriting ring buffer without locks to test its performance.
+This is a basic overwriting ring buffer to test its performance.
